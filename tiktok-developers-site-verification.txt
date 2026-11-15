@@ -1,0 +1,7 @@
+PLACEHOLDER
+
+Replace this file with the signature file TikTok gives you when you verify a URL prefix in the developer portal.
+
+Do not use this placeholder as a real verification file. TikTok will give you a specific filename and contents. Put that file at the prefix you are verifying (often the site root), then click Verify.
+
+Docs: https://developers.tiktok.com/docs/en/content-posting-api-media-transfer-guide
