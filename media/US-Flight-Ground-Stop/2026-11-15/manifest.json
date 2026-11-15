@@ -1,0 +1,29 @@
+{
+  "topic": "US-Flight-Ground-Stop",
+  "date": "2026-11-15",
+  "post_dir": "/workspace/singkshop-brand/Project-Salus/Static-Posts/US-Flight-Ground-Stop/2026-11-15",
+  "media_dir": "/workspace/singkshop-brand/00-ops/tiktok-inbox-tool/site/media/US-Flight-Ground-Stop/2026-11-15",
+  "relative_paths": [
+    "media/US-Flight-Ground-Stop/2026-11-15/us_flight_ground_stop_static_final_1080x1920.jpg"
+  ],
+  "images": [
+    {
+      "source": "/workspace/singkshop-brand/Project-Salus/Static-Posts/US-Flight-Ground-Stop/2026-11-15/us_flight_ground_stop_static_final_1080x1920.png",
+      "output": "/workspace/singkshop-brand/00-ops/tiktok-inbox-tool/site/media/US-Flight-Ground-Stop/2026-11-15/us_flight_ground_stop_static_final_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 634000,
+      "quality": 92
+    }
+  ],
+  "title": "One glitch. Planes grounded ✈️",
+  "description": "One glitch. Planes grounded ✈️\n\nWhat happened\nOn Friday 13 Nov (US time), the US Federal Aviation Administration, FAA (faa.gov), stopped departures at all US airports. That was early Saturday morning in Singapore. It said communication problems hit several of its air traffic control centres. The stop lasted about four and a half hours. Thousands of flights were cancelled on Friday and again on Saturday.\n\nWhy it matters\nThe US Department of Transportation (transportation.gov) said the stop was \"out of an abundance of caution\". It says a contractor was moving old copper telecom lines to fiber at one remote site, and a router \"started flooding other routers\". It is still checking what went wrong. It said \"we don't believe this was cyber at all.\"\n\nOur read: one small fault in an old, shared system can ripple across a whole country. Flights can stay messy after the system is fixed, because planes and crews end up in the wrong places. The FAA chief expects airlines to be largely back to normal by late Sunday, US time.\n\nWhat you can do\n• Flying to or through the US soon? Check your airline's app or website before you leave for the airport. Turn on flight alerts.\n• Many airlines are letting people rebook later without fees. Check your airline's own page.\n• If your airline cancels a flight to, from or within the US, US rules say you can get a refund if you choose not to travel and don't accept a credit or voucher. If you take the new flight, there is no refund under those rules.\n• Check live US airport delays at nasstatus.faa.gov.\n\nSources\nFAA statement: https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop\nUS Department of Transportation update (14 Nov): https://www.transportation.gov/briefing-room/icymi-us-transportation-secretary-sean-p-duffy-provides-update-restoration-airspace\nUS Department of Transportation, refunds: https://www.transportation.gov/individuals/aviation-consumer-protection/refunds\nFAA airport status: https://nasstatus.faa.gov/\nReuters (14 Nov): https://www.reuters.com/3fec1b0a85a0/business/aerospace-defense/thousands-us-flights-canceled-delayed-air-travel-system-recovers-shutdown-2026-11-14/\n\nIllustration, not a real photo. Not travel or legal advice. Follow for more tips.\n\n#TravelTips #FlightDelay #AirTravel #FlightCancelled #Singapore",
+  "title_truncated": false,
+  "description_truncated": false,
+  "title_utf16": 30,
+  "description_utf16": 2300,
+  "caption_source": "/workspace/singkshop-brand/Project-Salus/Static-Posts/US-Flight-Ground-Stop/2026-11-15/CAPTION_FINAL.txt",
+  "is_aigc": true,
+  "post_mode": "MEDIA_UPLOAD",
+  "media_type": "PHOTO"
+}
