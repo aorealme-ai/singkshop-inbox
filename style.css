@@ -66,3 +66,21 @@ button, .copy {
 }
 footer { padding-bottom: 2.5rem; }
 footer a { color: var(--muted); }
+
+h3 { font-size: 1.05rem; margin: 1.25rem 0 0.4rem; }
+.disclosure { margin: 1.25rem 0 1.75rem; }
+.pick { margin-top: 2rem; scroll-margin-top: 1rem; }
+.pick:target { outline: 2px solid var(--line); outline-offset: 8px; border-radius: 12px; }
+.why { margin-top: 0.35rem; }
+a.product {
+  display: inline-block;
+  border: 1px solid var(--ink);
+  background: var(--ink);
+  color: #fff;
+  border-radius: 8px;
+  padding: 0.45rem 0.8rem;
+  text-decoration: none;
+  font: inherit;
+}
+.sources { padding-left: 1.2rem; }
+.sources a { overflow-wrap: anywhere; }
